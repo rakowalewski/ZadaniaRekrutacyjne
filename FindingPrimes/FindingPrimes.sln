@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingPrimes", "FindingPrimes.csproj", "{CBFB5F51-FC47-4354-A96F-62CD7C3C8EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFB5F51-FC47-4354-A96F-62CD7C3C8EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFB5F51-FC47-4354-A96F-62CD7C3C8EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFB5F51-FC47-4354-A96F-62CD7C3C8EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFB5F51-FC47-4354-A96F-62CD7C3C8EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4502C442-E3EF-4918-9D3E-3501B77A368E}
+	EndGlobalSection
+EndGlobal
